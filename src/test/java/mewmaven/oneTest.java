@@ -7,6 +7,10 @@ public class oneTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
+		System.out.println("BrowserAutomation");
 	}
 	@Test
 	public void login()
