@@ -23,6 +23,8 @@ public class threeTest {
 	public void opentwitter()
 	{
 		System.out.println("opentwitter");
+		System.out.println("opentwitter");
+		System.out.println("opentwitter");
 	}
 
 }
