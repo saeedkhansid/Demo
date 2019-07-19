@@ -7,6 +7,17 @@ public class threeTest {
 	public void openfb()
 	{
 		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
+		System.out.println("openfb");
 	}
 	@Test
 	public void opentwitter()
